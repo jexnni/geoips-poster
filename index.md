@@ -1,6 +1,7 @@
 # The Geolocated Information Processing System (GeoIPS®) 
 
-<img width="2432" height="320" alt="image" src="https://github.com/user-attachments/assets/61af7103-4d16-42e9-8444-cc0780e14440" />
+<img width="2432" height="320" alt="image" src="https://github.com/user-attachments/assets/2c820332-3379-4c04-bee4-37e142e2d114" />
+
 
 
 
