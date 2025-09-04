@@ -1,4 +1,4 @@
-<img width="3000" height="320" alt="image" src="https://github.com/user-attachments/assets/2c820332-3379-4c04-bee4-37e142e2d114" />
+<img width="3000" height="250" alt="image" src="https://github.com/user-attachments/assets/2c820332-3379-4c04-bee4-37e142e2d114" />
 
 
 
@@ -35,11 +35,11 @@ Hello! Here you can find:
 ----
 
 
-## 👥 Collaborators
+## Collaborators
 
 A big Thank you to my mentors and our collaborators!  
 
-<img width="3000" height="899" alt="image" src="https://github.com/user-attachments/assets/704a5336-da6b-4585-a353-fb3114360dc3" />
+<img width="3000" height="399" alt="image" src="https://github.com/user-attachments/assets/704a5336-da6b-4585-a353-fb3114360dc3" />
 
 ۶ৎ [Collaboraters](https://github.com/jexnni/geoips-poster/blob/main/collaboraters%20screenshot.png)
 
