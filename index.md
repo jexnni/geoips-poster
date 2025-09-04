@@ -9,4 +9,4 @@ Hello! Here you can find:
 Exmple Video etc.
 
 
-![(https://github.com/jexnni/geoips-poster/blob/main/collaboraters%20screenshot.png)]
+![collaboraters](https://github.com/jexnni/geoips-poster/blob/main/collaboraters%20screenshot.png)
