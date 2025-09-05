@@ -23,7 +23,7 @@ A big Thank you to my mentors and our collaborators!
 
 <img width="3000" height="400" alt="image" src="https://github.com/user-attachments/assets/704a5336-da6b-4585-a353-fb3114360dc3" />
 
-۶ৎ [Collaboraters](https://github.com/jexnni/geoips-poster/blob/main/collaboraters%20screenshot.png)
+۶ৎ [[Collaboraters](collaboraters-screenshot.png)](https://github.com/jexnni/geoips-poster/blob/main/collaboraters-screenshot.png)
 
 Special Thank you to my favorite interns! 𐔌՞. .՞𐦯
 
@@ -36,7 +36,7 @@ Special Thank you to my favorite interns! 𐔌՞. .՞𐦯
 
 ## Have questions?  
 
-ᓚ₍⑅^..^₎ **jthompson5786@mpc.edu**  
+ᓚ₍⑅^..^₎ - **jthompson5786@mpc.edu**  
 
 ۶ৎ [LinkedIn](https://www.linkedin.com/in/jenniferxtt5786/)
 
