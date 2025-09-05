@@ -10,7 +10,7 @@
 
 ### Interested in learning about other plugins? Example using RyglickiCane Plugin:
 
-[![ChanthuAnimation](<img width="295" height="260" alt="image" src="https://github.com/user-attachments/assets/baa5362d-a02d-40b7-949c-50c73b471220" />)](https://youtu.be/FAWHeC7kQzw)
+[![ChanthuAnimation](./Screenshot-2025-09-05-015104.png)](https://youtu.be/FAWHeC7kQzw)
 
 ### Colorbar adjustments based off windspeeds at certains intervals:
 
