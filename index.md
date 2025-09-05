@@ -21,12 +21,13 @@ Hello! Here you can find:
 
 A big Thank you to my mentors and our collaborators!  
 
-<img width="3000" height="350" alt="image" src="https://github.com/user-attachments/assets/704a5336-da6b-4585-a353-fb3114360dc3" />
+<img width="3000" height="400" alt="image" src="https://github.com/user-attachments/assets/704a5336-da6b-4585-a353-fb3114360dc3" />
 
 ۶ৎ [Collaboraters](https://github.com/jexnni/geoips-poster/blob/main/collaboraters%20screenshot.png)
 
 Special Thank you to my favorite interns! 𐔌՞. .՞𐦯
 
+[Intern Appreciation] (./intern-appreciation.md)
 
 
 
