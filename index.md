@@ -1,4 +1,4 @@
-<img width="3000" height="250" alt="image" src="https://github.com/user-attachments/assets/2c820332-3379-4c04-bee4-37e142e2d114" />
+<img width="4000" height="200" alt="image" src="https://github.com/user-attachments/assets/2c820332-3379-4c04-bee4-37e142e2d114" />
 
 
 
@@ -29,7 +29,9 @@ Hello! Here you can find:
 
 | Before Update | After Update |
 |---------------|--------------|
-| ![Before](before.png) | ![After](after.png) |
+| <img width="480" height="389" alt="image" src="https://github.com/user-attachments/assets/b5868ead-48af-40f0-9496-7dd091363cec" />
+ | <img width="480" height="389" alt="image" src="https://github.com/user-attachments/assets/0163e22f-261f-46af-87b8-aecee85d8a36" />
+ |
 
 
 ----
