@@ -27,7 +27,7 @@ A big Thank you to my mentors and our collaborators!
 
 Special Thank you to my favorite interns! 𐔌՞. .՞𐦯
 
-[Intern Appreciation] (./intern-appreciation.md)
+[Intern Appreciation](./intern-appreciation.md)
 
 
 
