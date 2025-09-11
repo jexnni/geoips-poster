@@ -4,7 +4,7 @@
 <img src="2023oldinternswow.jpg" width="300" height="200">
 
 <img src="DSC02702.JPG" width="300" height="200">
-<img src="interns2024old.jpg" width="300" height="175">
+<img src="interns2024old.jpg" width="300" height="200">
 
 <img src="20250730_124530_753A0C.JPEG" width="300" height="175"> 
 <img src="20250808_103642_315FBC.JPEG" width="300" height="175">
