@@ -1,11 +1,3 @@
-# More comparison Photos!
-
-
-| Before Update | After Update |
-|---------------|--------------|
-| <img width="480" height="389" alt="image" src="https://github.com/user-attachments/assets/b5868ead-48af-40f0-9496-7dd091363cec" /> | <img width="480" height="389" alt="image" src="https://github.com/user-attachments/assets/0163e22f-261f-46af-87b8-aecee85d8a36" /> |
-| ![](20240924.150021.goes-18.abi.GeoColor.goes_west.45p56.noaa.10p0.png) | ![](20240924.150021.goes-18.abi.GeoColor.test_goes18_eqc_3km_terminator_20240924T1500Z.100p00.noaa.3p0.png) |
-
 ## Past Projects: 
 
 ### Interested in learning about other plugins? Example using RyglickiCane Plugin:
