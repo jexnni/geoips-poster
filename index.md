@@ -1,7 +1,7 @@
 
 Hello! Here you can find:
 
-[Comparison Photos](./photos.md)
+ [//]: # ([Comparison Photos](./photos.md))
 
 ----
 
