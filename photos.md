@@ -3,7 +3,7 @@
 ### Quad Charts from previous Science and Engineering Achievement Programs (SEAP)
 
 <img src="QuadChartSEAP2023_thompson.jpg" width="300" height="200"> 
-<img src="QuadChartSEAP2023_final_thompson.jpg" width="300" height="200">
+<img src="QuadChartSEAP2024_final_thompson.jpg" width="300" height="200">
 
 ### Interested in learning about other plugins? Example using RyglickiCane Plugin:
 
