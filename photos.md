@@ -3,6 +3,7 @@
 ### Interested in learning about other plugins? Example using RyglickiCane Plugin:
 
 [![ChanthuAnimation](./Screenshot-2025-09-05-015104.png)](https://youtu.be/FAWHeC7kQzw)
+*click for an animation!*
 
 ### Colorbar adjustments based off windspeeds at certains intervals:
 
@@ -13,14 +14,6 @@
 
 <img src="QuadChartSEAP2023_thompson.jpg" width="300" height="200"> 
 <img src="QuadChartSEAP2024_final_thompson.jpg" width="300" height="200">
-
-
-
-
-
-
-
-
 
 
 [Back to the Homepage](./index.md)
