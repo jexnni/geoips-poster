@@ -4,11 +4,11 @@
 
 <img src="20250730_124530_753A0C.JPEG" width="250" height="150">
 
-<img src="20250803_131822_77081A.JPEG" width="250" height="250">
+<img src="20250803_131822_77081A.JPEG" width="250" height="175">
 
 <img src="20250808_103642_315FBC.JPEG" width="250" height="150">
 
-<img src="20250809_100658_351B0A.JPEG" width="250" height="250">
+<img src="20250809_100658_351B0A.JPEG" width="250" height="300">
 
 <img src="6294e766-47aa-4a88-b8a7-d21e0805a4ff.JPG" width="250" height="150">
 
