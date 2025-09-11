@@ -13,11 +13,17 @@ Hello! Here you can find:
 
 ----
 
-## Collaborators
+## People Appreciation
 
-A big 'Thank you' to my mentors and our collaborators!  
+Science and Engineering Achivement Program (SEAP) & STEM Student Employment Program (SSEP)
 
- [Collaboraters](collaboraters-screenshot.png)
+
+Big Thanks to my Mentors and Co-Workers! This would not be possible without Chris, Mindy, Lauren or Evan ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+
+
+'Thank you' to our project collaborators!
+
+[Collaboraters](collaboraters-screenshot.png)
 
 
 Special 'Thank you' to my favorite interns! 𐔌՞. .՞𐦯
