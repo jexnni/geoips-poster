@@ -21,7 +21,7 @@ Science and Engineering Achivement Program (SEAP) & STEM Student Employment Prog
 Big Thanks to my Mentors and Co-Workers! This would not be possible without Chris, Mindy, Lauren or Evan ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 
-'Thank you' to our project [collaboraters](collaboraters-screenshot.png)!
+[//]: #  ('Thank you' to our project [collaboraters](collaboraters-screenshot.png)!)
 
 
 Special 'Thank you' to my [favorite interns](./intern-appreciation.md)! 𐔌՞. .՞𐦯
