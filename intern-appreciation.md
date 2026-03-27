@@ -1,6 +1,6 @@
 # (⸝⸝ᵕᴗᵕ⸝⸝)
 
-<img src="20250728_104213_7479BD.jpg" width="300" height="200"> 
+<img src="img/20250728_104213_7479BD.jpg" width="300" height="200"> 
 <img src="2023oldinternswow.jpg" width="300" height="200">
 
 <img src="DSC02702.JPG" width="300" height="200">
